@@ -9,3 +9,6 @@
 * [8、数组形式的整数加法](https://github.com/xiaoranli/leetocode989)
 * [9、字符串相加](https://github.com/xiaoranli/leetcode415)
 * [10、加一](https://github.com/xiaoranli/leetcode66)
+* [11、反转字符串](https://github.com/xiaoranli/leetcode344)
+* [12、反转字符串 II](https://github.com/xiaoranli/leetcode541)
+* [13、反转字符串中的单词 III](https://github.com/xiaoranli/leetcode557)
