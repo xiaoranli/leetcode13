@@ -5,3 +5,4 @@
 * [4、重复的子字符串](https://github.com/xiaoranli/leetcode459)
 * [5、重复叠加字符串匹配](https://github.com/xiaoranli/leetcode686)
 * [6、报数](https://github.com/xiaoranli/leetcode38)
+* [6、二进制求和](https://github.com/xiaoranli/leetcode67)
