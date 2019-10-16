@@ -6,3 +6,5 @@
 * [5、重复叠加字符串匹配](https://github.com/xiaoranli/leetcode686)
 * [6、报数](https://github.com/xiaoranli/leetcode38)
 * [7、二进制求和](https://github.com/xiaoranli/leetcode67)
+* [8、数组形式的整数加法](https://github.com/xiaoranli/leetcode989)
+
