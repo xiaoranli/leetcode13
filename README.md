@@ -14,3 +14,4 @@
 * [13、反转字符串中的单词 III](https://github.com/xiaoranli/leetcode557)
 * [14、旋转数字](https://github.com/xiaoranli/leetcode788)
 * [15、机器人能否返回原点](https://github.com/xiaoranli/leetcode657)
+* [16、分割平衡字符串](https://github.com/xiaoranli/leetcode1221)
