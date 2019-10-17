@@ -12,3 +12,4 @@
 * [11、反转字符串](https://github.com/xiaoranli/leetcode344)
 * [12、反转字符串 II](https://github.com/xiaoranli/leetcode541)
 * [13、反转字符串中的单词 III](https://github.com/xiaoranli/leetcode557)
+* [14、旋转数字](https://github.com/xiaoranli/leetcode788)
