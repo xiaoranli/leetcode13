@@ -17,3 +17,4 @@
 * [16、分割平衡字符串](https://github.com/xiaoranli/leetcode1221)
 * [17、压缩字符串](https://github.com/xiaoranli/leetcode443)
 * [18、转换成小写字母串](https://github.com/xiaoranli/leetcode709)
+* [19、学生出勤记录 I](https://github.com/xiaoranli/leetcode551)
