@@ -19,3 +19,4 @@
 * [18、转换成小写字母串](https://github.com/xiaoranli/leetcode709)
 * [19、学生出勤记录 I](https://github.com/xiaoranli/leetcode551)
 * [20、独特的电子邮件地址](https://github.com/xiaoranli/leetcode929)
+* [21、验证回文串](https://github.com/xiaoranli/leetcode125)
