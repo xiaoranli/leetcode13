@@ -24,3 +24,9 @@
 * [23、仅仅反转字母](https://github.com/xiaoranli/leetcode917)
 * [24、反转字符串中的元音字母](https://github.com/xiaoranli/leetcode345)
 * [25、重新排列日志文件](https://github.com/xiaoranli/leetcode937)
+* [26、字符串中的单词数](https://github.com/xiaoranli/leetcode434)
+
+
+
+* [25、重新排列日志文件](https://github.com/xiaoranli/leetcode937)
+
